@@ -1,2 +1,2 @@
 # Recipe-generator
-this is a recipe generator flask based application 
+this is a recipe-generator, a flask based application 
